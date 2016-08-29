@@ -1,1 +1,106 @@
+##Wildlife Incidences and Emergencies
 
+###The problem
+There are a huge number of wildlife incidents annually across Victoria, and limited numbers of staff dedicated to resolving them. This is complicated by the large and dispersed volunteer network working in wildlife rescue and rehabilitation across Victoria.
+
+Because of these limitations, wildlife information can be difficult to find and be out of date or inaccurate. The community often doesn't know who to contact about wildlife problems, incidents and emergencies, with the first point of call usually being the police. This means issues can take some time before being forwarded to the correct person and adds resulting in poor animal welfare outcomes, frustration for the person reporting the issue, and a waste of time for police and other organisations who have to direct issues to the correct areas.
+
+A government 'Wildlife’ app would allow for information on wildlife, wildlife issues, and wildlife emergencies to be located in an easily accessed tool. It would allow the community to look up helpful wildlife advice including tips on identifying species, seasonal changes in wildlife, Victorian regulations around wildlife, and how to resolve wildlife issues. It could also utilise geolocation to provide them with information on who to contact for more information or assistance.
+
+###Our perspective 
+Wildlife incidents, emergencies, land issues and illegal activities online tool, to better serve the community in finding:
+The closest wildlife rehabilitation centre to their location so that they could report incidents
+The proper organisation they can contact in case of a wildlife emergency
+General information on what to do when experiencing an incident / emergency / illegal activities.
+General information on what to do when having land issues involving wildlife and main assistance contact
+
+###Main findings
+
+####From rescue organisations, rehabilitation shelters and other organisations (Melbourne Zoo, Phillip Island Natural Park):
+
+All shelter and organisations reporting process rely on phone calls most of the time, facebook and email are also used but in a less proportion.
+Double ups in reports and rescues when Wildlife vic, general public, vets and/or other shelter report incidents or different individuals can report the same incident/emergency more than once to the same or different organisation/shelter
+There is not a way to know organisations and shelter availability/capacity to receive an animal
+There is not a way to recognize what is the organisation/shelter especiality in wildlife
+General public sometimes get advise to take animal to closest vet, without knowing vet skills and whether there will be service fees
+General public does not provide accurate information about the species and location, among others.
+Small organisation run by volunteers do not get enough funding
+Small organisations sometimes run out of staff to assist general public on the phone a well as to cover enough areas
+Record rescue reports on a spreadsheet. There might be duplication on the system, as carer are also required to have a log and report to DELWP even though they are also registered. Spreadsheet vary from organisation to organisation.
+
+
+####From DELWP Regional Staff
+
+Case management system: Currently the reporting process is a Excel Spreadsheet that has to be entered manually after each case, even a phone call. 
+Time is spread too thin: Due to having to respond to so many call outs for a huge variety of issues, the DELWP regional staff never have time to do call ins to rehabilitation centres, let alone check their records. The hope is to visit these once every 1-2 years, but that doesn't currently happen.
+Double ups: Staff are often called after a rehabilitation centre has responded to an incident. 
+User acceptance being aware an app exist
+No clear single point of contact
+Reliance on telephone and paper based reporting
+Dispersed and disconnected wildlife rehabilitators
+Public education, lack of information on how to deal with this issues
+Issues maintaining organisations contact details up-to-date
+
+###From General Public
+
+https://postimg.org/image/m0j8hnzd9/][img]https://s22.postimg.org/m0j8hnzd9/1wildlife.png
+
+https://postimg.org/image/bg9az2uvh/][img]https://s22.postimg.org/bg9az2uvh/2wildlife.png
+
+Other points of contact mentioned, ordered from high to low by number of times being mentioned, were:
+Google search
+Phone number on road sign
+Not sure/ no idea
+Wildlife victoria
+Parks victoria
+Local carer
+SES (emergencies)
+RSPCA (illegal)
+Blockers
+From rescue organisations, shelters and other organisations:
+There is not a centralized point of contact that can organise the reports and direct them to where it is appropriate
+Technology used in the shelters to received reports, get in contact with other organisations and shelters is not very reliable in terms of getting accurate information on incidents as well as to deal with double ups
+Rescue orgs and shelters do not count with a proper technology that can be integrated with a mobile application to received reports, notifications (if only build for the community).
+
+###From DELWP Regional Staff
+
+Reporting issue: Supposedly this is already being developed, we need confirmation on this. With a proper reporting system Time spread too thin becomes less of an issue as well.
+
+
+###Conclusions
+From rescue organisations, shelters and other organisations:
+There is a need for:
+
+A system managed by a centralised organisation in Victoria (or per region at least, ideally where any rescue orgs/shelters can participate) where:
+
+Organisation and shelters can received reports, get notified
+Organisation and shelters can assign and notify their volunteers and field staff by SMS or in a parallel mobile app.
+Reports can be directed to the appropriate specialized organisation
+Reports can be directed to the closest and available (operation hours and capacity) organisation/shelter/volunteer
+Organisation and shelters can accept or reject reports
+Information of the reports can be storage easily and used later to complement record information that rescue orgs and shelters need to report to DELWP
+Annual record reports about organisations/shelters services can be created and sent/ exported to be easily delivered to DELWP
+
+A technology, connected to the rescue orgs/ shelter system, in which:
+General public can fill in forms that include exact location of incident and pictures to provide more accurate information to organisations and shelters
+General public can create a report even if they are in an area with low mobile reception or not reception at all
+There is information about animal behaviour so that people can actually identify if they are involved in an incident or not
+General public can also verify if the incident they want to report has been already reported by some else (by location and picture of animal)
+General public interested in being notified about the outcome of their report, can be notified easily by SMS or email
+People can get seasonally inform about most common incidents per season
+
+General public need to understand the importance and the purpose of this idea to be open to download an app in their phones as a form of prevention in case they get involved in a wildlife incident or emergency, at least.
+
+At the moment, we consider it might be possible to create a web or mobile app in which general public can find:
+A list of contact details of rescue orgs/shelter that can be filtered by category, region/postcode, species (speciality) and hours of operation
+Rescue orgs/shelters by suggestions with geolocation
+Information about what to do, what not to do and behaviours in animals when animal is alive
+Information of what to do when the animal is dead
+Phone number/form to report illegal actions
+
+###From DELWP Regional Staff
+A well built, user centred web case reporting system that can be easily updated and accessed from mobile.
+General questions
+Who will be maintaining the app after we finish?
+Is the app just a list of wildlife shelter organisations?
+Is there a DELWP regional officers program being created?
